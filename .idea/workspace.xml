@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eca853e5-0136-4141-b91b-062823420eda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/RoundedButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/focus/Focus.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/colors.js" afterDir="false" />
+    <list default="true" id="eca853e5-0136-4141-b91b-062823420eda" name="Changes" comment="Focus Time start project">
+      <change afterPath="$PROJECT_DIR$/.prettierrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +33,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "/Users/amitil/Documents/projects/focustime",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/amitil/Documents/projects/focustime/node_modules/prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -51,8 +51,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663095791429</updated>
-      <workItem from="1663095796137" duration="312000" />
+      <workItem from="1663095796137" duration="599000" />
     </task>
+    <task id="LOCAL-00001" summary="Focus Time start project">
+      <created>1663096282095</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663096282095</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,5 +76,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Focus Time start project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Focus Time start project" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
